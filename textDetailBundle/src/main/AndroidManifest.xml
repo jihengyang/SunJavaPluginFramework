@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sun.textdetail">
+
+    <application
+        android:name=".TextDetailApplication"
+        android:allowBackup="true"
+        android:supportsRtl="true">
+        <activity android:name=".TextDetailActivity" />
+    </application>
+</manifest>
